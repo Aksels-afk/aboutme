@@ -1,0 +1,95 @@
+{
+  "nav": {
+    "home": "Hjem",
+    "about": "Om meg",
+    "education": "Utdanning",
+    "experience": "Erfaring",
+    "hobbies": "Hobbyer",
+    "contact": "Kontakt"
+  },
+  "landing": {
+    "welcome": "Velkommen til mitt portfolio",
+    "subtitle": "Full Stack Utvikler & QA-tester",
+    "learnMore": "Lær mer"
+  },
+  "about": {
+    "title": "Om meg",
+    "description": "Jeg er en motivert full-stack utvikler og student ved Universitetet i Latvia, med fokus på moderne og brukervennlige nettapplikasjoner. Min utdanning og arbeidserfaring har gitt meg et solid grunnlag i både front-end og back-end teknologier. Jeg kan utvikle interaktive og responsive nettapplikasjoner ved å bruke de nyeste teknologiene og anvende beste programmeringspraksis.",
+    "skills": "Tekniske ferdigheter"
+  },
+  "education": {
+    "title": "Utdanning",
+    "current": {
+      "degree": "Bachelor i Informatikk",
+      "school": "Universitetet i Latvia",
+      "date": "2022 - 2026",
+      "description": "Studiene fokuserte på programvareutvikling, algoritmer og datastrukturer. Studiene har gitt meg ferdigheter i utvikling og vedlikehold av nettapplikasjoner, samt en god forståelse av programvareutviklingsprosessen."
+    },
+    "previous": {
+      "degree": "Videregående Utdanning",
+      "school": "Rīgas Ziepniekkalna Vidusskola",
+      "date": "2010 - 2022",
+      "description": "Spesialisert i matematikk."
+    }
+  },
+  "workExperience": {
+    "title": "Erfaring",
+    "current": {
+      "title": "Full Stack Utvikler & QA-tester",
+      "company": "Batsoft",
+      "date": "Februar 2025 - Nåværende",
+      "description": "Utvikler og vedlikeholder nettapplikasjoner (PHP, Git, Yii2, React, Wordpress) med moderne teknologier. Arbeider med ulike prosjekter, inkludert innholdsstyringssystemer. Tester og feilsøker nett- og mobilapplikasjoner for å sikre at de oppfyller kvalitetsstandarder."
+    },
+    "previous": {
+      "title": "Web Utvikler Intern",
+      "company": "Santa Monica Networks",
+      "date": "September 2024 - Januar 2025",
+      "description": "Utviklet en applikasjon som brukte Zabbix API for å få mest mulig nyttig informasjon om komplekse enheter (som switcher). Oppnådde erfaring med front-end og back-end teknologier."
+    },
+    "internship": {
+      "title": "IT-administrator Intern",
+      "company": "Skonto Plan",
+      "date": "Juni 2024 - August 2024",
+      "description": "Gav teknisk støtte og assistanse til ansatte. Hjalp til med systemvedlikehold og feilsøking. Oppnådde praktisk erfaring med ulike IT-systemer og verktøy."
+    }
+  },
+  "hobbies": {
+    "title": "Hobbyer og interesser",
+    "carRepair": {
+      "title": "Bilreparasjon og vedlikehold",
+      "description": "Jeg har en lidenskap for bilreparasjon og vedlikehold. Fra standard vedlikehold til mer komplekse reparasjoner som girkassebytte, nyter jeg utfordringen med å diagnostisere og løse bilproblemer. Denne hobbyen har hjulpet meg med å utvikle sterke problemløsningsferdigheter og oppmerksomhet på detaljer."
+    },
+    "gym": {
+      "title": "Fitness",
+      "description": "Jeg går regelmessig på treningssenter for å trene bort IT-magen min"
+    },
+    "other": {
+      "title": "Andre interesser",
+      "description": "Når jeg ikke jobber med biler eller er på treningssenteret, nyter jeg å utforske nye teknologier, lese om bilinnovasjoner og holde meg oppdatert med de siste utviklingene i teknologibransjen. Jeg liker å lese bøker, sykle og tilbringe tid med venner. I tillegg lærer jeg norsk."
+    },
+    "website": {
+      "title": "Denne nettsiden",
+      "description": "Denne porteføljenettstedet er bygget med React.js og styled-components for et moderne, responsivt design. Det inkluderer myke animasjoner, mørk/lys modus og flerspråklig støtte (engelsk, latvisk og norsk) ved hjelp av i18next. Siden er fullstendig responsiv og optimalisert for alle enheter, med fokus på ytelse og brukeropplevelse."
+    }
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Ta gjerne kontakt med meg gjennom disse kanalene",
+    "email": {
+      "label": "E-post",
+      "value": "akselssalavs@gmail.com"
+    },
+    "phone": {
+      "label": "Telefon",
+      "value": "+371 29 363 454"
+    },
+    "linkedin": {
+      "label": "LinkedIn",
+      "value": "Se min LinkedIn-profil"
+    }
+  },
+  "footer": {
+    "copyright": "© 2025 Aksels Salavs.",
+    "rights": "Alle rettigheter reservert."
+  }
+} 

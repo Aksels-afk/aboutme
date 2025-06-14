@@ -1,0 +1,95 @@
+{
+  "nav": {
+    "home": "Sākums",
+    "about": "Par mani",
+    "education": "Izglītība",
+    "experience": "Pieredze",
+    "hobbies": "Hobiji",
+    "contact": "Kontakti"
+  },
+  "landing": {
+    "welcome": "Laipni lūdzu manā portfolio",
+    "subtitle": "Full Stack Izstrādātājs & QA Testētājs",
+    "learnMore": "Uzzināt vairāk"
+  },
+  "about": {
+    "title": "Par mani",
+    "description": "Esmu motivēts full-stack izstrādātājs un students Latvijas Universitātē, sliecos uz modernām un lietotājam draudzīgām web lietotnēm. Mana izglītība un darba pieredze ir sniegusi man spēcīgu pamatu gan front-end, gan back-end tehnoloģijās. Es spēju izstrādāt interaktīvas un responsīvas web lietotnes, izmantojot jaunākās tehnoloģijas un pielietot labākās programmēšanas prakses.",
+    "skills": "Tehniskās prasmes"
+  },
+  "education": {
+    "title": "Izglītība",
+    "current": {
+      "degree": "Bakalaura grāds Datorzinātnēs",
+      "school": "Latvijas Universitāte",
+      "date": "2022 - 2026",
+      "description": "Studijas koncentrējās uz programmatūras izstrādi, algoritmiem un datu struktūrām. Studijas ir devušas man prasmes tīmekļa lietojumprogrammu izstrādē un uzturēšanā, kā arī labu izpratni par programmatūras izstrādes procesu."
+    },
+    "previous": {
+      "degree": "Vidējā izglītība",
+      "school": "Rīgas Ziepniekkalna Vidusskola",
+      "date": "2010 - 2022",
+      "description": "Specializējos matemātikā."
+    }
+  },
+  "workExperience": {
+    "title": "Pieredze",
+    "current": {
+      "title": "Full Stack Izstrādātājs & QA Testētājs",
+      "company": "Batsoft",
+      "date": "2025. gada februāris - Pašlaik",
+      "description": "Izstrādāju un uzturu tīmekļa lietojumprogrammas (PHP, Git, Yii2, React, Wordpress), izmantojot mūsdienu tehnoloģijas. Strādāju pie dažādiem projektiem, tostarp satura pārvaldības sistēmām. Testēju un atkļūdoju tīmekļa un mobilās lietojumprogrammas, lai nodrošinātu to atbilstību kvalitātes standartiem."
+    },
+    "previous": {
+      "title": "Web Developer Intern",
+      "company": "Santa Monica Networks",
+      "date": "2024. gada septembris - 2025. gada janvāris",
+      "description": "Izstrādāju lietojumprogrammu, kas izmantoja Zabbix API, lai iegūtu visnoderīgāko informāciju par sarežģītām ierīcēm (piemēram, komutatoriem). Ieguvu pieredzi ar front-end un back-end tehnoloģijām."
+    },
+    "internship": {
+      "title": "IT Admin Intern",
+      "company": "Skonto Plan",
+      "date": "2024. gada jūnijs - augusts",
+      "description": "Nodrošināju tehnisko atbalstu un palīdzību darbiniekiem. Palīdzēju ar sistēmu uzturēšanu un problēmu novēršanu. Ieguvu praktisku pieredzi ar dažādām IT sistēmām un rīkiem. "
+    }
+  },
+  "hobbies": {
+    "title": "Hobiji un intereses",
+    "carRepair": {
+      "title": "Auto remonts un apkope",
+      "description": "Man ir aizraušanās ar auto remontu un apkopi. No standarta apkopēm līdz sarežģītākiem remontiem kā ātrumkārbas maiņa, es izbaudu izaicinājumu diagnosticēt un atrisināt auto problēmas. Šis hobijs ir palīdzējis man attīstīt spēcīgas problēmu risināšanas prasmes un uzmanību detaļām."
+    },
+    "gym": {
+      "title": "Fitness",
+      "description": "Regulāri dodos uz sporta zāli lai nodzītu savu IT vēderu"
+    },
+    "other": {
+      "title": "Citas intereses",
+      "description": "Kad es nestrādāju pie auto vai neesmu zālē, es izbaudu jaunu tehnoloģiju izpēti, lasu par auto inovācijām un sekoju līdzi jaunākajiem tech nozares attīstības virzieniem. Man patīk lasīt grāmatas, braukt ar riteni un pavadīt laiku ar draugiem. Papildus mācos Norvēģu valodu."
+    },
+    "website": {
+      "title": "Šī mājaslapa",
+      "description": "Šī portfolio mājaslapa ir izveidota, izmantojot React.js un styled-components modernam, responsīvam dizainam. Tā ietver vienmērīgas animācijas, tumšo/gaišo režīmu un daudzvalodu atbalstu (angļu, latviešu un norvēģu valodā), izmantojot i18next. Lapa ir pilnībā responsīva un optimizēta visām ierīcēm, ar fokusu uz veiktspēju un lietotāja pieredzi."
+    }
+  },
+  "contact": {
+    "title": "Kontakti",
+    "subtitle": "Sazinieties ar mani izmantojot šos kanālus",
+    "email": {
+      "label": "E-pasts",
+      "value": "akselssalavs@gmail.com"
+    },
+    "phone": {
+      "label": "Tālrunis",
+      "value": "+371 29 363 454"
+    },
+    "linkedin": {
+      "label": "LinkedIn",
+      "value": "Skatīt manu LinkedIn profilu"
+    }
+  },
+  "footer": {
+    "copyright": "© 2025 Aksels Salavs.",
+    "rights": "Visas tiesības aizsargātas."
+  }
+} 

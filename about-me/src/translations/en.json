@@ -1,0 +1,95 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "education": "Education",
+    "experience": "Experience",
+    "hobbies": "Hobbies",
+    "contact": "Contact"
+  },
+  "landing": {
+    "welcome": "Welcome to my portfolio",
+    "subtitle": "Full Stack Developer & QA Tester",
+    "learnMore": "Learn more"
+  },
+  "about": {
+    "title": "About me",
+    "description": "I am a motivated full-stack developer and student at the University of Latvia, focusing on modern and user-friendly web applications. My education and work experience have provided me with a strong foundation in both front-end and back-end technologies. I can develop interactive and responsive web applications using the latest technologies and applying best programming practices.",
+    "skills": "Technical Skills"
+  },
+  "education": {
+    "title": "Education",
+    "current": {
+      "degree": "Bachelor's in Computer Science",
+      "school": "University of Latvia",
+      "date": "2022 - 2026",
+      "description": "Studies focused on software development, algorithms, and data structures. The studies have given me skills in web application development and maintenance, as well as a good understanding of the software development process."
+    },
+    "previous": {
+      "degree": "High School Diploma",
+      "school": "Rīgas Ziepniekkalna Vidusskola",
+      "date": "2010 - 2022",
+      "description": "Specialized in mathematics."
+    }
+  },
+  "workExperience": {
+    "title": "Experience",
+    "current": {
+      "title": "Full Stack Developer & QA Tester",
+      "company": "Batsoft",
+      "date": "February 2025 - Present",
+      "description": "Developing and maintaining web applications (PHP, Git, Yii2, React, Wordpress) using modern technologies. Working on various projects, including content management systems. Testing and debugging web and mobile applications to ensure they meet quality standards."
+    },
+    "previous": {
+      "title": "Web Developer Intern",
+      "company": "Santa Monica Networks",
+      "date": "September 2024 - January 2025",
+      "description": "Developed an application using Zabbix API to get the most useful information about complex devices (such as switches). Gained experience with front-end and back-end technologies."
+    },
+    "internship": {
+      "title": "IT Administrator Intern",
+      "company": "Skonto Plan",
+      "date": "June 2024 - August 2024",
+      "description": "Provided technical support and assistance to employees. Helped with system maintenance and troubleshooting. Gained practical experience with various IT systems and tools."
+    }
+  },
+  "hobbies": {
+    "title": "Hobbies and Interests",
+    "carRepair": {
+      "title": "Car Repair and Maintenance",
+      "description": "I have a passion for car repair and maintenance. From standard maintenance to more complex repairs like gearbox replacement, I enjoy the challenge of diagnosing and solving car problems. This hobby has helped me develop strong problem-solving skills and attention to detail."
+    },
+    "gym": {
+      "title": "Fitness",
+      "description": "I regularly go to the gym to work off my IT belly"
+    },
+    "other": {
+      "title": "Other Interests",
+      "description": "When I'm not working on cars or at the gym, I enjoy exploring new technologies, reading about car innovations, and keeping up with the latest tech industry developments. I like reading books, cycling, and spending time with friends. Additionally, I'm learning Norwegian."
+    },
+    "website": {
+      "title": "This Website",
+      "description": "This portfolio website is built with React.js and styled-components for a modern, responsive design. It includes smooth animations, dark/light mode, and multilingual support (English, Latvian, and Norwegian) using i18next. The site is fully responsive and optimized for all devices, with a focus on performance and user experience."
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Feel free to reach out through these channels",
+    "email": {
+      "label": "Email",
+      "value": "akselssalavs@gmail.com"
+    },
+    "phone": {
+      "label": "Phone",
+      "value": "+371 29 363 454"
+    },
+    "linkedin": {
+      "label": "LinkedIn",
+      "value": "View my LinkedIn profile"
+    }
+  },
+  "footer": {
+    "copyright": "© 2025 Aksels Salavs.",
+    "rights": "All rights reserved."
+  }
+} 

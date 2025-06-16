@@ -63,6 +63,7 @@ export const Text = styled.p`
   line-height: 1.6;
   font-size: ${props => props.size || '1rem'};
   margin-bottom: ${props => props.marginBottom || '1rem'};
+  text-align: center;
 `;
 
 // Common heading styles
@@ -71,6 +72,7 @@ export const Heading = styled.h3`
   font-size: ${props => props.size || '1.4rem'};
   margin-bottom: ${props => props.marginBottom || '0.5rem'};
   font-weight: 500;
+  text-align: center;
 `;
 
 // Common grid styles

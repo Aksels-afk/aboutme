@@ -64,6 +64,7 @@ export const TimelineContent = styled.div`
   border-radius: 6px;
   border: 1px solid ${props => props.theme.border};
   transition: all 0.3s ease;
+  text-align: center;
 
   &:hover {
     transform: translateY(-5px);
@@ -80,7 +81,7 @@ export const CompanyIcon = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-bottom: 1.5rem;
+  margin: 0 auto 1.5rem;
   transition: all 0.3s ease;
   overflow: hidden;
 
@@ -95,6 +96,7 @@ export const TimelineTitle = styled.h3`
   color: ${props => props.theme.text};
   font-size: 1.2rem;
   font-weight: 600;
+  text-align: center;
 `;
 
 export const TimelineSubtitle = styled.h4`
@@ -102,12 +104,14 @@ export const TimelineSubtitle = styled.h4`
   color: ${props => props.theme.primary};
   font-size: 1rem;
   font-weight: 500;
+  text-align: center;
 `;
 
 export const TimelineDate = styled.div`
   color: ${props => props.theme.secondary};
   font-size: 0.9rem;
   margin-bottom: 1rem;
+  text-align: center;
 `;
 
 export const TimelineDescription = styled.p`
@@ -115,4 +119,5 @@ export const TimelineDescription = styled.p`
   color: ${props => props.theme.text};
   font-size: 0.95rem;
   line-height: 1.6;
+  text-align: center;
 `; 

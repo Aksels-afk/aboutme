@@ -7,6 +7,7 @@ const HobbyCard = styled(Card)`
   display: flex;
   flex-direction: column;
   gap: 0.75rem;
+  text-align: center;
 `;
 
 const WebsiteCard = styled(HobbyCard)`
@@ -17,7 +18,9 @@ const WebsiteCard = styled(HobbyCard)`
 const HobbyTitle = styled(Heading)`
   display: flex;
   align-items: center;
+  justify-content: center;
   gap: 0.5rem;
+  text-align: center;
 
   &::before {
     content: '•';

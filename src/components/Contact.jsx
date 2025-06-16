@@ -36,17 +36,20 @@ const IconWrapper = styled.div`
 
 const ContactInfo = styled.div`
   flex: 1;
+  text-align: center;
 `;
 
 const ContactLabel = styled(Text)`
   font-size: 0.9rem;
   margin-bottom: 0.5rem;
+  text-align: center;
 `;
 
 const ContactValue = styled.div`
   font-size: 1.1rem;
   font-weight: 500;
   color: ${props => props.theme.text};
+  text-align: center;
 `;
 
 const Contact = () => {

@@ -29,37 +29,28 @@ const Main = styled.main`
 `;
 
 const App = () => {
+  const [isDarkMode, setIsDarkMode] = useState(false);
   const [showHeader, setShowHeader] = useState(false);
-  const [isDarkMode, setIsDarkMode] = useState(true);
 
   useEffect(() => {
-    const handleScroll = () => {
-      const landingSection = document.getElementById('home');
-      if (landingSection) {
-        const landingHeight = landingSection.offsetHeight;
-        const scrollPosition = window.scrollY;
-        setShowHeader(scrollPosition > landingHeight * 0.8);
-      }
-    };
+    if ('scrollRestoration' in window.history) {
+      window.history.scrollRestoration = 'manual';
+    }
+    window.scrollTo(0, 0);
 
+    const handleScroll = () => setShowHeader(window.scrollY > 100);
     window.addEventListener('scroll', handleScroll);
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
 
-  const handleThemeToggle = () => {
-    setIsDarkMode(!isDarkMode);
-  };
-
   return (
-    <I18nextProvider i18n={i18n}>
-      <ThemeProvider theme={isDarkMode ? darkTheme : lightTheme}>
+    <ThemeProvider theme={isDarkMode ? darkTheme : lightTheme}>
+      <I18nextProvider i18n={i18n}>
         <GlobalStyle />
         <AppContainer>
-          <Header show={showHeader} onThemeToggle={handleThemeToggle} isDarkMode={isDarkMode} />
+          <Header show={showHeader} onThemeToggle={() => setIsDarkMode(!isDarkMode)} isDarkMode={isDarkMode} />
           <Main>
-            <FadeIn>
-              <Landing showHeader={showHeader} />
-            </FadeIn>
+            <Landing showHeader={showHeader} />
             <FadeIn>
               <About />
             </FadeIn>
@@ -80,8 +71,8 @@ const App = () => {
             <Footer />
           </FadeIn>
         </AppContainer>
-      </ThemeProvider>
-    </I18nextProvider>
+      </I18nextProvider>
+    </ThemeProvider>
   );
 };
 

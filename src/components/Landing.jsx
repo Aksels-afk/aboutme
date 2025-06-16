@@ -1,7 +1,8 @@
-import React from 'react';
+import React, { useRef } from 'react';
 import { useTranslation } from 'react-i18next';
 import styled from 'styled-components';
 import LanguageSelector from './LanguageSelector';
+import CursorTrail from './CursorTrail';
 
 const Section = styled.section`
   min-height: 100vh;
@@ -38,6 +39,12 @@ const Section = styled.section`
 const Content = styled.div`
   position: relative;
   z-index: 1;
+  padding: 2rem;
+  border-radius: 12px;
+  background: ${props => props.theme.card}40;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid ${props => props.theme.border};
 `;
 
 const Title = styled.h1`
@@ -85,6 +92,7 @@ const LearnMoreButton = styled.button`
 
 const Landing = ({ showHeader }) => {
   const { t } = useTranslation();
+  const sectionRef = useRef(null);
 
   const scrollToAbout = () => {
     const aboutSection = document.getElementById('about');
@@ -94,7 +102,8 @@ const Landing = ({ showHeader }) => {
   };
 
   return (
-    <Section id="home">
+    <Section id="home" ref={sectionRef}>
+      <CursorTrail containerRef={sectionRef} />
       <LanguageSelector isFixed={false} show={!showHeader} />
       <Content>
         <Title>{t('landing.welcome')}</Title>

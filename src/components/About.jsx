@@ -2,7 +2,7 @@ import React from 'react';
 import { useTranslation } from 'react-i18next';
 import styled from 'styled-components';
 import { Section, Container, Title, Card, Grid, Heading, Text } from '../styles/shared';
-import profileImage from '../images/AkselsS.jpeg';
+import profileImage from '../assets/images/AkselsS.jpeg';
 
 const AboutContent = styled.div`
   display: grid;

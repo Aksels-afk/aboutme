@@ -24,11 +24,11 @@ export const Timeline = styled.div`
 `;
 
 export const TimelineItem = styled.div`
-  padding: 1rem 2rem;
+  padding: 10px 40px;
   position: relative;
   width: 50%;
-  left: ${props => props.alignment === 'right' ? '50%' : '0'};
   box-sizing: border-box;
+  left: ${props => props.alignment === 'left' ? '0' : '50%'};
 
   @media (max-width: 768px) {
     width: 100%;
@@ -40,54 +40,79 @@ export const TimelineItem = styled.div`
   &::after {
     content: '';
     position: absolute;
-    width: 20px;
-    height: 20px;
-    background: ${props => props.theme.primary};
+    width: 25px;
+    height: 25px;
+    right: ${props => props.alignment === 'left' ? '-17px' : 'auto'};
+    left: ${props => props.alignment === 'left' ? 'auto' : '-17px'};
+    background-color: ${props => props.theme.background};
+    border: 4px solid ${props => props.theme.primary};
+    top: 15px;
     border-radius: 50%;
-    top: 1.5rem;
-    right: ${props => props.alignment === 'right' ? 'auto' : '-10px'};
-    left: ${props => props.alignment === 'right' ? '-10px' : 'auto'};
     z-index: 1;
 
     @media (max-width: 768px) {
-      left: 21px;
+      left: 15px;
       right: auto;
     }
   }
 `;
 
 export const TimelineContent = styled.div`
-  padding: 1.5rem;
+  padding: 20px;
   background: ${props => props.theme.card};
-  border-radius: 8px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  position: relative;
+  border-radius: 6px;
   border: 1px solid ${props => props.theme.border};
-  transition: transform 0.3s ease;
+  transition: all 0.3s ease;
 
   &:hover {
     transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    border-color: ${props => props.theme.primary};
+  }
+`;
+
+export const CompanyIcon = styled.div`
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 1.5rem;
+  transition: all 0.3s ease;
+  overflow: hidden;
+
+  img {
+    width: 55px;
+    object-fit: contain;
   }
 `;
 
 export const TimelineTitle = styled.h3`
-  color: ${props => props.theme.primary};
-  margin-bottom: 0.5rem;
-  font-size: 1.4rem;
+  margin: 0;
+  color: ${props => props.theme.text};
+  font-size: 1.2rem;
+  font-weight: 600;
 `;
 
 export const TimelineSubtitle = styled.h4`
-  color: ${props => props.theme.text};
-  margin-bottom: 0.5rem;
-  font-size: 1.2rem;
+  margin: 0.5rem 0;
+  color: ${props => props.theme.primary};
+  font-size: 1rem;
+  font-weight: 500;
 `;
 
-export const TimelineDate = styled.p`
+export const TimelineDate = styled.div`
   color: ${props => props.theme.secondary};
   font-size: 0.9rem;
   margin-bottom: 1rem;
 `;
 
 export const TimelineDescription = styled.p`
-  color: ${props => props.theme.secondary};
+  margin: 0;
+  color: ${props => props.theme.text};
+  font-size: 0.95rem;
   line-height: 1.6;
 `; 

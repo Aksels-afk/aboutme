@@ -8,8 +8,12 @@ import {
   TimelineTitle,
   TimelineSubtitle,
   TimelineDate,
-  TimelineDescription
+  TimelineDescription,
+  CompanyIcon
 } from '../styles/timeline';
+
+// Import university icon
+import luIcon from '../assets/icons/lu.png';
 
 const Education = () => {
   const { t } = useTranslation();
@@ -21,6 +25,9 @@ const Education = () => {
         <Timeline>
           <TimelineItem alignment="right">
             <TimelineContent>
+              <CompanyIcon>
+                <img src={luIcon} alt="University of Latvia" />
+              </CompanyIcon>
               <TimelineTitle>{t('education.current.degree')}</TimelineTitle>
               <TimelineSubtitle>{t('education.current.school')}</TimelineSubtitle>
               <TimelineDate>{t('education.current.date')}</TimelineDate>

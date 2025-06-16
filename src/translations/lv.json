@@ -14,7 +14,7 @@
   },
   "about": {
     "title": "Par mani",
-    "description": "Sveiki, esmu Aksels. Esmu motivēts full-stack izstrādātājs un students Latvijas Universitātē, dzīvoju Rīgā, Latvijā. Es koncentrējos uz modernām un lietotājam draudzīgām tīmekļa lietotnēm. Mana izglītība un darba pieredze ir sniegusi man spēcīgu pamatu gan front-end, gan back-end tehnoloģijās. Es spēju izstrādāt interaktīvas un responsīvas tīmekļa lietotnes, izmantojot jaunākās tehnoloģijas un pielietojot labākās programmēšanas prakses.",
+    "description": "Sveiki, esmu Aksels. Dzimis Norvēģijā, bet audzis Latvijā. Esmu motivēts full-stack izstrādātājs un students Latvijas Universitātē, kas atrodas Rīgā, Latvijā. Mana daudzkultūru pieredze ir veidojusi manu pieeju problēmu risināšanai un sadarbībai. Es koncentrējos uz modernām un lietotājam draudzīgām tīmekļa lietotnēm, apvienojot skandināvu dizaina principus ar tehnisko izcilību. Mana izglītība un darba pieredze ir sniegusi man spēcīgu pamatu gan front-end, gan back-end tehnoloģijās. Es spēju izstrādāt interaktīvas un responsīvas tīmekļa lietotnes, izmantojot jaunākās tehnoloģijas un pielietojot labākās programmēšanas prakses.",
     "skills": "Tehniskās prasmes"
   },
   "education": {
@@ -69,7 +69,7 @@
     },
     "website": {
       "title": "Šī mājaslapa",
-      "description": "Šī portfolio mājaslapa ir izveidota, izmantojot React.js un styled-components modernam, responsīvam dizainam. Tā ietver vienmērīgas animācijas, tumšo/gaišo režīmu un daudzvalodu atbalstu (angļu, latviešu un norvēģu valodā), izmantojot i18next. Lapa ir pilnībā responsīva un optimizēta visām ierīcēm, ar fokusu uz veiktspēju un lietotāja pieredzi."
+      "description": "Es šo portfolio mājaslapu izveidoju, izmantojot React.js un styled-components modernam, responsīvam dizainam. Tā ietver vienmērīgas animācijas, tumšo/gaišo režīmu un daudzvalodu atbalstu (angļu, latviešu un norvēģu valodā), izmantojot i18next. Lapa ir pilnībā ejoša un optimizēta visām ierīcēm, ar fokusu uz veiktspēju un lietotāja pieredzi."
     }
   },
   "contact": {

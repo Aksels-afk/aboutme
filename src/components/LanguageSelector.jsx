@@ -87,8 +87,8 @@ const LanguageSelector = ({ isFixed, show }) => {
 
   const languages = [
     { code: 'en', name: 'English', display: 'EN' },
-    { code: 'lv', name: 'Latvian', display: 'LV' },
-    { code: 'no', name: 'Norwegian', display: 'NO' }
+    { code: 'lv', name: 'Latviešu', display: 'LV' },
+    { code: 'no', name: 'Norsk', display: 'NO' }
   ];
 
   useEffect(() => {

@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/aboutme/static/js/main.ad3d50ee.js",
+    "main.js": "/aboutme/static/js/main.cbd39f75.js",
     "static/media/AkselsS.jpeg": "/aboutme/static/media/AkselsS.54741cec5685bb7854fe.jpeg",
     "static/media/lu.png": "/aboutme/static/media/lu.013f3f7fbf6da18cc598.png",
     "static/media/skonto-plan.png": "/aboutme/static/media/skonto-plan.dc5bd3ce1f456fdac2f7.png",
     "static/media/santa-monica.png": "/aboutme/static/media/santa-monica.e2fd99657eab1f338afd.png",
     "index.html": "/aboutme/index.html",
-    "main.ad3d50ee.js.map": "/aboutme/static/js/main.ad3d50ee.js.map"
+    "main.cbd39f75.js.map": "/aboutme/static/js/main.cbd39f75.js.map"
   },
   "entrypoints": [
-    "static/js/main.ad3d50ee.js"
+    "static/js/main.cbd39f75.js"
   ]
 }

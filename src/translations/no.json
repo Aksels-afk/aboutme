@@ -14,7 +14,7 @@
   },
   "about": {
     "title": "Om meg",
-    "description": "Jeg er en motivert full-stack utvikler og student ved Universitetet i Latvia, med fokus på moderne og brukervennlige nettapplikasjoner. Min utdanning og arbeidserfaring har gitt meg et solid grunnlag i både front-end og back-end teknologier. Jeg kan utvikle interaktive og responsive nettapplikasjoner ved å bruke de nyeste teknologiene og anvende beste programmeringspraksis.",
+    "description": "Hei, jeg er Aksels. Jeg er en motivert full-stack utvikler og student ved Universitetet i Latvia, basert i Riga, Latvia. Jeg fokuserer på moderne og brukervennlige nettapplikasjoner. Min utdanning og arbeidserfaring har gitt meg et solid grunnlag i både front-end og back-end teknologier. Jeg kan utvikle interaktive og responsive nettapplikasjoner ved å bruke de nyeste teknologiene og anvende beste programmeringspraksis.",
     "skills": "Tekniske ferdigheter"
   },
   "education": {
@@ -61,7 +61,7 @@
     },
     "gym": {
       "title": "Fitness",
-      "description": "Jeg går regelmessig på treningssenter for å trene bort IT-magen min"
+      "description": "Jeg trener på treningssenteret tre ganger i uken for å holde meg i form og opprettholde en sunn livsstil."
     },
     "other": {
       "title": "Andre interesser",

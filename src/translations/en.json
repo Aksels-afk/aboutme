@@ -14,7 +14,7 @@
   },
   "about": {
     "title": "About me",
-    "description": "I am a motivated full-stack developer and student at the University of Latvia, focusing on modern and user-friendly web applications. My education and work experience have provided me with a strong foundation in both front-end and back-end technologies. I can develop interactive and responsive web applications using the latest technologies and applying best programming practices.",
+    "description": "Hi, I am Aksels. I am a motivated full-stack developer and student at the University of Latvia based in Riga, Latvia. I focus on modern and user-friendly web applications. My education and work experience have provided me with a strong foundation in both front-end and back-end technologies. I can develop interactive and responsive web applications using the latest technologies and applying best programming practices.",
     "skills": "Technical Skills"
   },
   "education": {
@@ -61,7 +61,7 @@
     },
     "gym": {
       "title": "Fitness",
-      "description": "I regularly go to the gym to work off my IT belly"
+      "description": "I work out at the gym three times a week to stay in shape and maintain a healthy lifestyle."
     },
     "other": {
       "title": "Other Interests",

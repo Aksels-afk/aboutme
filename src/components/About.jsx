@@ -62,14 +62,15 @@ const About = () => {
   const { t } = useTranslation();
 
   const skills = [
-    'JavaScript',
+    'PHP',
     'React',
+    'WordPress',
     'Node.js',
     'Python',
     'SQL',
     'Git',
     'HTML/CSS',
-    'TypeScript'
+    'JavaScript'
   ];
 
   return (

@@ -9,7 +9,7 @@
   },
   "landing": {
     "welcome": "Welcome to my portfolio",
-    "subtitle": "Full Stack Developer & QA Tester",
+    "subtitle": "Full Stack Developer & QA Engineer",
     "learnMore": "Learn more"
   },
   "about": {
@@ -35,7 +35,7 @@
   "workExperience": {
     "title": "Experience",
     "current": {
-      "title": "Full Stack Developer & QA Tester",
+      "title": "Full Stack Developer & QA Engineer",
       "company": "Batsoft",
       "date": "February 2025 - Present",
       "description": "Developing and maintaining web applications using modern technologies such as PHP, Git, Yii2, React, and WordPress. Experience working on a variety of projects, including content management systems. Responsible for testing and debugging both web and mobile applications to ensure they meet quality standards. Skilled in regression testing, performance testing, security testing, as well as black box and white box testing."
@@ -49,7 +49,7 @@
     "internship": {
       "title": "IT Administrator Intern",
       "company": "Skonto Plan",
-      "date": "June 2024 - August 2024",
+      "date": "May 2024 - August 2024",
       "description": "Provided technical support and assistance to employees. Helped with system maintenance and troubleshooting. Gained practical experience with various IT systems and tools."
     }
   },

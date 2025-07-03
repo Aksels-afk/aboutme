@@ -9,7 +9,7 @@
   },
   "landing": {
     "welcome": "Laipni lūdzu manā portfolio",
-    "subtitle": "Full Stack Izstrādātājs & QA Testētājs",
+    "subtitle": "Full Stack Izstrādātājs & Kvalitātes Nodrošināšana",
     "learnMore": "Uzzināt vairāk"
   },
   "about": {
@@ -35,7 +35,7 @@
   "workExperience": {
     "title": "Pieredze",
     "current": {
-      "title": "Full Stack Izstrādātājs & QA Testētājs",
+      "title": "Full Stack Izstrādātājs & Kvalitātes Nodrošināšana",
       "company": "Batsoft",
       "date": "2025. gada februāris - Pašlaik",
       "description": "Izstrādāju un uzturu tīmekļa lietojumprogrammas, izmantojot mūsdienu tehnoloģijas - PHP, Git, Yii2, un WordPress. Pieredze strādājot pie dažādiem projektiem, tostarp satura pārvaldības sistēmām. Atbildīgs par tīmekļa un mobilo lietojumprogrammu testēšanu un atkļūdošanu, lai nodrošinātu to atbilstību kvalitātes standartiem. Prasmīgs regresijas testēšanā, veiktspējas testēšanā, drošības testēšanā, kā arī melnās un baltās kastes testēšanā."
@@ -49,7 +49,7 @@
     "internship": {
       "title": "IT Admin Intern",
       "company": "Skonto Plan",
-      "date": "2024. gada jūnijs - augusts",
+      "date": "2024. gada maijs - 2024. gada augusts",
       "description": "Nodrošināju tehnisko atbalstu un palīdzību darbiniekiem. Palīdzēju ar sistēmu uzturēšanu un problēmu novēršanu. Ieguvu praktisku pieredzi ar dažādām IT sistēmām un rīkiem. "
     }
   },

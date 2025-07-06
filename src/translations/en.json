@@ -2,6 +2,7 @@
   "nav": {
     "home": "Home",
     "about": "About",
+    "projects": "Projects",
     "education": "Education",
     "experience": "Experience",
     "hobbies": "Hobbies",
@@ -16,6 +17,15 @@
     "title": "About me",
     "description": "Hi, I am Aksels. Born in Norway 🇳🇴 but raised in Latvia. I am a motivated full-stack developer and student at the University of Latvia based in Riga, Latvia. My multicultural background has shaped my approach to problem-solving and collaboration. I focus on modern and user-friendly web applications, combining design principles with technical excellence. My education and work experience have provided me with a strong foundation in both front-end and back-end technologies. I can develop interactive and responsive web applications using the latest technologies and applying best programming practices.",
     "skills": "Technical Skills"
+  },
+  "projects": {
+    "title": "Projects",
+    "taskManagement": {
+      "title": "Task Management System",
+      "subtitle": "React + Laravel Full-Stack Application",
+      "description": "A modern task management web app featuring user authentication, CRUD operations, and responsive design. Built with React frontend and Laravel API backend. The screenshots showcase the login interface, dashboard with task management, and task creation/editing functionality.",
+      "techStack": ["React", "Laravel", "Tailwind CSS", "SQLite", "JWT Authentication"]
+    }
   },
   "education": {
     "title": "Education",

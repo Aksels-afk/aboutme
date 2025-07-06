@@ -2,6 +2,7 @@
   "nav": {
     "home": "Sākums",
     "about": "Par mani",
+    "projects": "Projekti",
     "education": "Izglītība",
     "experience": "Pieredze",
     "hobbies": "Hobiji",
@@ -16,6 +17,15 @@
     "title": "Par mani",
     "description": "Sveiki, esmu Aksels. Dzimis Norvēģijā, bet audzis Latvijā. Esmu motivēts full-stack izstrādātājs un students Latvijas Universitātē, dzīvoju Rīgā, Latvijā. Mana daudzkultūru pieredze ir veidojusi manu pieeju problēmu risināšanai un sadarbībai. Es koncentrējos uz modernām un lietotājam draudzīgām tīmekļa lietotnēm, apvienojot dizaina principus ar tehnisku izcilību. Mana izglītība un darba pieredze ir sniegusi man spēcīgu pamatu gan front-end, gan back-end tehnoloģijās. Es spēju izstrādāt interaktīvas un responsīvas tīmekļa lietotnes, izmantojot jaunākās tehnoloģijas un pielietojot labākās programmēšanas prakses.",
     "skills": "Tehniskās prasmes"
+  },
+  "projects": {
+    "title": "Projekti",
+    "taskManagement": {
+      "title": "Uzdevumu Pārvaldības Sistēma",
+      "subtitle": "React + Laravel Full-Stack Lietojumprogramma",
+      "description": "Mūsdienu uzdevumu pārvaldības tīmekļa lietojumprogramma ar lietotāju autentifikāciju, CRUD operācijām un responsīvu dizainu. Izveidota ar React frontend un Laravel API backend. Ekrānuzņēmumi parāda pieteikšanās saskarni, informācijas paneli ar uzdevumu pārvaldību un uzdevumu izveides/rediģēšanas funkcionalitāti.",
+      "techStack": ["React", "Laravel", "Tailwind CSS", "SQLite", "JWT Autentifikācija"]
+    }
   },
   "education": {
     "title": "Izglītība",

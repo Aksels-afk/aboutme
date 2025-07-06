@@ -193,7 +193,7 @@ const Projects = () => {
     }
   ];
 
-  const imageLabels = ['Login Page', 'Dashboard', 'Registration Page'];
+  const imageLabels = ['Login Page', 'Registration Page', 'Dashboard'];
   
   // Calculate next and previous image indices
   const nextImageIndex = currentImageIndex === projects[0].images.length - 1 ? 0 : currentImageIndex + 1;

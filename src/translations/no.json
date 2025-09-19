@@ -2,6 +2,7 @@
   "nav": {
     "home": "Hjem",
     "about": "Om meg",
+    "projects": "Prosjekter",
     "education": "Utdanning",
     "experience": "Erfaring",
     "hobbies": "Hobbyer",
@@ -16,6 +17,15 @@
     "title": "Om meg",
     "description": "Hei, jeg er Aksels. Født i Norge, men oppvokst i Latvia. Jeg er en motivert informatikkstudent ved Universitetet i Latvia og QA-ingeniør. Min utdanning og arbeidserfaring har gitt meg et solid grunnlag i både front-end og back-end teknologier. Jeg kan både utvikle interaktive og responsive nettapplikasjoner og teste dem på riktig måte, både automatisk og manuelt.",
     "skills": "Tekniske ferdigheter"
+  },
+  "projects": {
+    "title": "Prosjekter",
+    "taskManagement": {
+      "title": "Oppgaveadministrasjonssystem",
+      "subtitle": "React + Laravel Full-Stack Applikasjon",
+      "description": "En moderne oppgaveadministrasjons nettapplikasjon med brukerautentisering, CRUD-operasjoner og responsivt design. Bygget med React frontend og Laravel API backend. Skjermbildene viser påloggingsgrensesnittet, dashbordet med oppgaveadministrasjon og funksjonalitet for opprettelse/redigering av oppgaver.",
+      "techStack": ["React", "Laravel", "Tailwind CSS", "SQLite", "JWT Autentisering"]
+    }
   },
   "education": {
     "title": "Utdanning",

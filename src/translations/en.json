@@ -2,6 +2,7 @@
   "nav": {
     "home": "Home",
     "about": "About",
+    "projects": "Projects",
     "education": "Education",
     "experience": "Experience",
     "hobbies": "Hobbies",
@@ -9,13 +10,22 @@
   },
   "landing": {
     "welcome": "Welcome to my portfolio",
-    "subtitle": "Full Stack Developer & QA Tester",
+    "subtitle": "Full Stack Developer & QA Engineer",
     "learnMore": "Learn more"
   },
   "about": {
     "title": "About me",
     "description": "Hi, I'm Aksels. Born in Norway but raised in Latvia. I am a motivated Computer Science student at the University of Latvia and a QA Engineer. My education and work experience have given me a strong foundation in both front-end and back-end technologies. I can both develop interactive and responsive web applications and properly test them, both automated and manually.",
     "skills": "Technical Skills"
+  },
+  "projects": {
+    "title": "Projects",
+    "taskManagement": {
+      "title": "Task Management System",
+      "subtitle": "React + Laravel Full-Stack Application",
+      "description": "A modern task management web app featuring user authentication, CRUD operations, and responsive design. Built with React frontend and Laravel API backend. The screenshots showcase the login interface, dashboard with task management, and task creation/editing functionality.",
+      "techStack": ["React", "Laravel", "Tailwind CSS", "SQLite", "JWT Authentication"]
+    }
   },
   "education": {
     "title": "Education",
@@ -35,7 +45,7 @@
   "workExperience": {
     "title": "Experience",
     "current": {
-      "title": "Full Stack Developer & QA Tester",
+      "title": "Full Stack Developer & QA Engineer",
       "company": "Batsoft",
       "date": "February 2025 - August 2025",
       "description": "Performed manual and automated testing (QA) of websites and mobile applications across various platforms (Android, iOS, Windows), using Postman, TestFlight, Firebase, and Appium (TypeScript) for automated web and mobile app tests. Additionally used HTML, CSS, JavaScript, PHP, WordPress, and Git in daily work on website development and maintenance."
@@ -49,7 +59,7 @@
     "internship": {
       "title": "IT Administrator Intern",
       "company": "Skonto Plan",
-      "date": "June 2024 - August 2024",
+      "date": "May 2024 - August 2024",
       "description": "Provided technical support and assistance to employees. Helped with system maintenance and troubleshooting. Gained practical experience with various IT systems and tools."
     }
   },

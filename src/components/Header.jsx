@@ -144,6 +144,7 @@ const Header = ({ show, onThemeToggle, isDarkMode }) => {
       <Nav isOpen={isMenuOpen}>
         <NavLink href="#home" onClick={() => setIsMenuOpen(false)}>{t('nav.home')}</NavLink>
         <NavLink href="#about" onClick={() => setIsMenuOpen(false)}>{t('nav.about')}</NavLink>
+        <NavLink href="#projects" onClick={() => setIsMenuOpen(false)}>{t('nav.projects')}</NavLink>
         <NavLink href="#education" onClick={() => setIsMenuOpen(false)}>{t('nav.education')}</NavLink>
         <NavLink href="#experience" onClick={() => setIsMenuOpen(false)}>{t('nav.experience')}</NavLink>
         <NavLink href="#contact" onClick={() => setIsMenuOpen(false)}>{t('nav.contact')}</NavLink>

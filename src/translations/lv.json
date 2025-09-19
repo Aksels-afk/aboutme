@@ -2,6 +2,7 @@
   "nav": {
     "home": "Sākums",
     "about": "Par mani",
+    "projects": "Projekti",
     "education": "Izglītība",
     "experience": "Pieredze",
     "hobbies": "Hobiji",
@@ -9,13 +10,22 @@
   },
   "landing": {
     "welcome": "Laipni lūdzu manā portfolio",
-    "subtitle": "Full Stack Izstrādātājs & QA Testētājs",
+    "subtitle": "Full Stack Izstrādātājs & Kvalitātes Nodrošināšana",
     "learnMore": "Uzzināt vairāk"
   },
   "about": {
     "title": "Par mani",
     "description": "Sveiki, esmu Aksels. Dzimis Norvēģijā, bet audzis Latvijā. Esmu motivēts datorzinātņu students Latvijas Universitātē un QA Inženieris. Mana izglītība un darba pieredze ir sniegusi man spēcīgu pamatu gan front-end, gan back-end tehnoloģijās. Es spēju gan izstrādāt interaktīvas un responsīvas tīmekļa lietotnes, gan tās pienācīgi testēt gan automatizēti gan manuāli.",
     "skills": "Tehniskās prasmes"
+  },
+  "projects": {
+    "title": "Projekti",
+    "taskManagement": {
+      "title": "Uzdevumu Pārvaldības Sistēma",
+      "subtitle": "React + Laravel Full-Stack Lietojumprogramma",
+      "description": "Mūsdienu uzdevumu pārvaldības tīmekļa lietojumprogramma ar lietotāju autentifikāciju, CRUD operācijām un responsīvu dizainu. Izveidota ar React frontend un Laravel API backend. Ekrānuzņēmumi parāda pieteikšanās saskarni, informācijas paneli ar uzdevumu pārvaldību un uzdevumu izveides/rediģēšanas funkcionalitāti.",
+      "techStack": ["React", "Laravel", "Tailwind CSS", "SQLite", "JWT Autentifikācija"]
+    }
   },
   "education": {
     "title": "Izglītība",
@@ -35,7 +45,7 @@
   "workExperience": {
     "title": "Pieredze",
     "current": {
-      "title": "Full Stack Izstrādātājs & QA Testētājs",
+      "title": "Full Stack Izstrādātājs & Kvalitātes Nodrošināšana",
       "company": "Batsoft",
       "date": "2025. gada februāris - 2025. gada augusts",
       "description": "Veicu mājaslapu un mobīlo lietotņu manuālo un automatizēto testēšanu (QA) uz dažādām platformām (Android, iOS, Windows), izmantojot Postman, TestFlight, Firebase, Appium (TypeScript) automatizētiem web un mobīlo lietotņu testiem. Papildus izmantoju HTML, CSS, JavaScript, PHP, WordPress un Git ikdienas darbā pie mājaslapu izstrādes un uzturēšanas."
@@ -49,7 +59,7 @@
     "internship": {
       "title": "IT Admin Intern",
       "company": "Skonto Plan",
-      "date": "2024. gada jūnijs - augusts",
+      "date": "2024. gada maijs - 2024. gada augusts",
       "description": "Nodrošināju tehnisko atbalstu un palīdzību darbiniekiem. Palīdzēju ar sistēmu uzturēšanu un problēmu novēršanu. Ieguvu praktisku pieredzi ar dažādām IT sistēmām un rīkiem. "
     }
   },

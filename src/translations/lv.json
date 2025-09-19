@@ -14,7 +14,7 @@
   },
   "about": {
     "title": "Par mani",
-    "description": "Sveiki, esmu Aksels. Dzimis Norvēģijā, bet audzis Latvijā. Esmu motivēts full-stack izstrādātājs un students Latvijas Universitātē, dzīvoju Rīgā, Latvijā. Mana daudzkultūru pieredze ir veidojusi manu pieeju problēmu risināšanai un sadarbībai. Es koncentrējos uz modernām un lietotājam draudzīgām tīmekļa lietotnēm, apvienojot dizaina principus ar tehnisku izcilību. Mana izglītība un darba pieredze ir sniegusi man spēcīgu pamatu gan front-end, gan back-end tehnoloģijās. Es spēju izstrādāt interaktīvas un responsīvas tīmekļa lietotnes, izmantojot jaunākās tehnoloģijas un pielietojot labākās programmēšanas prakses.",
+    "description": "Sveiki, esmu Aksels. Dzimis Norvēģijā, bet audzis Latvijā. Esmu motivēts datorzinātņu students Latvijas Universitātē un QA Inženieris. Mana izglītība un darba pieredze ir sniegusi man spēcīgu pamatu gan front-end, gan back-end tehnoloģijās. Es spēju gan izstrādāt interaktīvas un responsīvas tīmekļa lietotnes, gan tās pienācīgi testēt gan automatizēti gan manuāli.",
     "skills": "Tehniskās prasmes"
   },
   "education": {
@@ -29,7 +29,7 @@
       "degree": "Vidējā izglītība",
       "school": "Rīgas Ziepniekkalna Vidusskola",
       "date": "2010 - 2022",
-      "description": "Specializējos matemātikā."
+      "description": ""
     }
   },
   "workExperience": {
@@ -37,8 +37,8 @@
     "current": {
       "title": "Full Stack Izstrādātājs & QA Testētājs",
       "company": "Batsoft",
-      "date": "2025. gada februāris - Pašlaik",
-      "description": "Izstrādāju un uzturu tīmekļa lietojumprogrammas, izmantojot mūsdienu tehnoloģijas - PHP, Git, Yii2, un WordPress. Pieredze strādājot pie dažādiem projektiem, tostarp satura pārvaldības sistēmām. Atbildīgs par tīmekļa un mobilo lietojumprogrammu testēšanu un atkļūdošanu, lai nodrošinātu to atbilstību kvalitātes standartiem. Prasmīgs regresijas testēšanā, veiktspējas testēšanā, drošības testēšanā, kā arī melnās un baltās kastes testēšanā."
+      "date": "2025. gada februāris - 2025. gada augusts",
+      "description": "Veicu mājaslapu un mobīlo lietotņu manuālo un automatizēto testēšanu (QA) uz dažādām platformām (Android, iOS, Windows), izmantojot Postman, TestFlight, Firebase, Appium (TypeScript) automatizētiem web un mobīlo lietotņu testiem. Papildus izmantoju HTML, CSS, JavaScript, PHP, WordPress un Git ikdienas darbā pie mājaslapu izstrādes un uzturēšanas."
     },
     "previous": {
       "title": "Web Developer Intern",
@@ -57,19 +57,19 @@
     "title": "Hobiji un intereses",
     "carRepair": {
       "title": "Auto remonts un apkope",
-      "description": "Man ir aizraušanās ar auto remontu un apkopi. No standarta apkopēm līdz sarežģītākiem remontiem kā ātrumkārbas maiņa, es izbaudu izaicinājumu diagnosticēt un atrisināt auto problēmas. Šis hobijs ir palīdzējis man attīstīt spēcīgas problēmu risināšanas prasmes un uzmanību detaļām."
+      "description": "Mani aizrauj auto remonts un apkope. Ar laiku tas ir kļuvis kā hobijs, izbaudu izprast tehniku un mācīties darot lietas pašam."
     },
     "gym": {
       "title": "Fitness",
-      "description": "Eju uz sporta zāli trīs reizes nedēļā, lai saglabātu formu un uzturētu veselīgu dzīvesveidu."
+      "description": "Regulāri skrienu, veicu spēka treniņus un citas fiziskas aktivitātes."
     },
     "other": {
       "title": "Citas intereses",
-      "description": "Kad es nestrādāju pie auto vai neesmu zālē, es izbaudu jaunu tehnoloģiju izpēti, lasu par auto inovācijām un sekoju līdzi jaunākajiem tech nozares attīstības virzieniem. Man patīk lasīt grāmatas, braukt ar riteni un pavadīt laiku ar draugiem. Papildus mācos Norvēģu valodu."
+      "description": "Es izbaudu jaunu tehnoloģiju izpēti, lasu par auto inovācijām un sekoju līdzi jaunākajiem tech nozares attīstības virzieniem. Papildus mācos Norvēģu valodu."
     },
     "website": {
       "title": "Šī mājaslapa",
-      "description": "Es šo portfolio mājaslapu izveidoju, izmantojot React.js un styled-components modernam, responsīvam dizainam. Tā ietver vienmērīgas animācijas, tumšo/gaišo režīmu un daudzvalodu atbalstu (angļu, latviešu un norvēģu valodā), izmantojot i18next. Lapa ir pilnībā ejoša un optimizēta visām ierīcēm, ar fokusu uz veiktspēju un lietotāja pieredzi."
+      "description": "Es šo portfolio mājaslapu izveidoju, izmantojot React.js un styled-components modernam, responsīvam dizainam. Tā ietver vienmērīgas animācijas, tumšo/gaišo režīmu un vairāku valodu atbalstu (angļu, latviešu un norvēģu valodā), izmantojot i18next. Lapa ir pilnībā ejoša un optimizēta visām ierīcēm, ar fokusu uz veiktspēju un lietotāja pieredzi."
     }
   },
   "contact": {

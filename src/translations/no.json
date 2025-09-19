@@ -14,7 +14,7 @@
   },
   "about": {
     "title": "Om meg",
-    "description": "Hei, jeg er Aksels. Født i Norge, men oppvokst i Latvia. Jeg er en motivert full-stack utvikler og student ved Universitetet i Latvia, basert i Riga, Latvia. Min flerkulturelle bakgrunn har formet min tilnærming til problemløsning og samarbeid. Jeg fokuserer på moderne og brukervennlige nettapplikasjoner, og kombinerer designprinsipper med teknisk ekspertise. Min utdanning og arbeidserfaring har gitt meg et solid grunnlag i både front-end og back-end teknologier. Jeg kan utvikle interaktive og responsive nettapplikasjoner ved å bruke de nyeste teknologiene og anvende beste programmeringspraksis.",
+    "description": "Hei, jeg er Aksels. Født i Norge, men oppvokst i Latvia. Jeg er en motivert informatikkstudent ved Universitetet i Latvia og QA-ingeniør. Min utdanning og arbeidserfaring har gitt meg et solid grunnlag i både front-end og back-end teknologier. Jeg kan både utvikle interaktive og responsive nettapplikasjoner og teste dem på riktig måte, både automatisk og manuelt.",
     "skills": "Tekniske ferdigheter"
   },
   "education": {
@@ -29,7 +29,7 @@
       "degree": "Videregående Utdanning",
       "school": "Rīgas Ziepniekkalna Vidusskola",
       "date": "2010 - 2022",
-      "description": "Spesialisert i matematikk."
+      "description": ""
     }
   },
   "workExperience": {
@@ -37,8 +37,8 @@
     "current": {
       "title": "Full Stack Utvikler & QA-tester",
       "company": "Batsoft",
-      "date": "Februar 2025 - Nåværende",
-      "description": "Utvikler og vedlikeholder nettapplikasjoner med moderne teknologier som PHP, Git, Yii2 og WordPress. Erfaring med å arbeide på ulike prosjekter, inkludert innholdsstyringssystemer. Ansvarlig for testing og feilsøking av både nett- og mobilapplikasjoner for å sikre at de oppfyller kvalitetsstandarder. Dyktig i regresjonstesting, ytelsestesting, sikkerhetstesting, samt svart boks og hvit boks testing."
+      "date": "Februar 2025 - August 2025",
+      "description": "Utførte manuell og automatisert testing (QA) av nettsider og mobilapplikasjoner på ulike plattformer (Android, iOS, Windows), ved å bruke Postman, TestFlight, Firebase og Appium (TypeScript) for automatiserte web- og mobiltester. I tillegg brukte jeg HTML, CSS, JavaScript, PHP, WordPress og Git i det daglige arbeidet med utvikling og vedlikehold av nettsider."
     },
     "previous": {
       "title": "Web Utvikler Intern",
@@ -57,15 +57,15 @@
     "title": "Hobbyer og interesser",
     "carRepair": {
       "title": "Bilreparasjon og vedlikehold",
-      "description": "Jeg har en lidenskap for bilreparasjon og vedlikehold. Fra standard vedlikehold til mer komplekse reparasjoner som girkassebytte, nyter jeg utfordringen med å diagnostisere og løse bilproblemer. Denne hobbyen har hjulpet meg med å utvikle sterke problemløsningsferdigheter og oppmerksomhet på detaljer."
+      "description": "Jeg er lidenskapelig opptatt av bilreparasjon og -vedlikehold. Med tiden har det blitt en hobby; jeg liker å forstå mekanikken og lære ved å gjøre ting selv."
     },
     "gym": {
       "title": "Fitness",
-      "description": "Jeg trener på treningssenteret tre ganger i uken for å holde meg i form og opprettholde en sunn livsstil."
+      "description": "Jeg løper jevnlig, driver med styrketrening og andre fysiske aktiviteter."
     },
     "other": {
       "title": "Andre interesser",
-      "description": "Når jeg ikke jobber med biler eller er på treningssenteret, nyter jeg å utforske nye teknologier, lese om bilinnovasjoner og holde meg oppdatert med de siste utviklingene i teknologibransjen. Jeg liker å lese bøker, sykle og tilbringe tid med venner. I tillegg lærer jeg norsk."
+      "description": "Jeg liker å utforske nye teknologier, lese om bilinnovasjoner og holde meg oppdatert på de siste utviklingene i teknologibransjen. I tillegg lærer jeg norsk."
     },
     "website": {
       "title": "Denne nettsiden",

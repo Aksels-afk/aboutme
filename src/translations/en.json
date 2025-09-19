@@ -14,7 +14,7 @@
   },
   "about": {
     "title": "About me",
-    "description": "Hi, I am Aksels. Born in Norway 🇳🇴 but raised in Latvia. I am a motivated full-stack developer and student at the University of Latvia based in Riga, Latvia. My multicultural background has shaped my approach to problem-solving and collaboration. I focus on modern and user-friendly web applications, combining design principles with technical excellence. My education and work experience have provided me with a strong foundation in both front-end and back-end technologies. I can develop interactive and responsive web applications using the latest technologies and applying best programming practices.",
+    "description": "Hi, I'm Aksels. Born in Norway but raised in Latvia. I am a motivated Computer Science student at the University of Latvia and a QA Engineer. My education and work experience have given me a strong foundation in both front-end and back-end technologies. I can both develop interactive and responsive web applications and properly test them, both automated and manually.",
     "skills": "Technical Skills"
   },
   "education": {
@@ -29,7 +29,7 @@
       "degree": "High School Diploma",
       "school": "Rīgas Ziepniekkalna Vidusskola",
       "date": "2010 - 2022",
-      "description": "Specialized in mathematics."
+      "description": ""
     }
   },
   "workExperience": {
@@ -37,8 +37,8 @@
     "current": {
       "title": "Full Stack Developer & QA Tester",
       "company": "Batsoft",
-      "date": "February 2025 - Present",
-      "description": "Developing and maintaining web applications using modern technologies such as PHP, Git, Yii2, React, and WordPress. Experience working on a variety of projects, including content management systems. Responsible for testing and debugging both web and mobile applications to ensure they meet quality standards. Skilled in regression testing, performance testing, security testing, as well as black box and white box testing."
+      "date": "February 2025 - August 2025",
+      "description": "Performed manual and automated testing (QA) of websites and mobile applications across various platforms (Android, iOS, Windows), using Postman, TestFlight, Firebase, and Appium (TypeScript) for automated web and mobile app tests. Additionally used HTML, CSS, JavaScript, PHP, WordPress, and Git in daily work on website development and maintenance."
     },
     "previous": {
       "title": "Web Developer Intern",
@@ -57,15 +57,15 @@
     "title": "Hobbies and Interests",
     "carRepair": {
       "title": "Car Repair and Maintenance",
-      "description": "I have a passion for car repair and maintenance. From standard maintenance to more complex repairs like gearbox replacement, I enjoy the challenge of diagnosing and solving car problems. This hobby has helped me develop strong problem-solving skills and attention to detail."
+      "description": "I am passionate about car repair and maintenance. Over time it has become a hobby; I enjoy understanding the mechanics and learning by doing things myself."
     },
     "gym": {
       "title": "Fitness",
-      "description": "I work out at the gym three times a week to stay in shape and maintain a healthy lifestyle."
+      "description": "I regularly run, do strength training and other physical activities."
     },
     "other": {
       "title": "Other Interests",
-      "description": "When I'm not working on cars or at the gym, I enjoy exploring new technologies, reading about car innovations, and keeping up with the latest tech industry developments. I like reading books, cycling, and spending time with friends. Additionally, I'm learning Norwegian."
+      "description": "I enjoy exploring new technologies, reading about car innovations, and keeping up with the latest developments in the tech industry. Additionally, I'm learning Norwegian."
     },
     "website": {
       "title": "This Website",

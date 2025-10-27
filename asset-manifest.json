@@ -1,6 +1,7 @@
 {
   "files": {
-    "main.js": "/aboutme/static/js/main.3982fc2b.js",
+    "main.js": "/aboutme/static/js/main.c80765a8.js",
+    "static/media/Maphaus.jpeg": "/aboutme/static/media/Maphaus.d2c6863ffd76db9845f3.jpeg",
     "static/media/AkselsS.jpeg": "/aboutme/static/media/AkselsS.0d0d61bfbc5f3f410219.jpeg",
     "static/media/lu.png": "/aboutme/static/media/lu.013f3f7fbf6da18cc598.png",
     "static/media/Dashboard.jpeg": "/aboutme/static/media/Dashboard.353726fff81d7ccd15cb.jpeg",
@@ -9,9 +10,9 @@
     "static/media/skonto-plan.png": "/aboutme/static/media/skonto-plan.dc5bd3ce1f456fdac2f7.png",
     "static/media/santa-monica.png": "/aboutme/static/media/santa-monica.e2fd99657eab1f338afd.png",
     "index.html": "/aboutme/index.html",
-    "main.3982fc2b.js.map": "/aboutme/static/js/main.3982fc2b.js.map"
+    "main.c80765a8.js.map": "/aboutme/static/js/main.c80765a8.js.map"
   },
   "entrypoints": [
-    "static/js/main.3982fc2b.js"
+    "static/js/main.c80765a8.js"
   ]
 }

@@ -5,6 +5,7 @@
     "education": "Izglītība",
     "experience": "Pieredze",
     "hobbies": "Hobiji",
+    "projects": "Projekti",
     "contact": "Kontakti"
   },
   "landing": {
@@ -16,6 +17,21 @@
     "title": "Par mani",
     "description": "Sveiki, esmu Aksels. Dzimis Norvēģijā, bet audzis Latvijā. Esmu motivēts datorzinātņu students Latvijas Universitātē un QA Inženieris. Mana izglītība un darba pieredze ir sniegusi man spēcīgu pamatu gan front-end, gan back-end tehnoloģijās. Es spēju gan izstrādāt interaktīvas un responsīvas tīmekļa lietotnes, gan tās pienācīgi testēt gan automatizēti gan manuāli.",
     "skills": "Tehniskās prasmes"
+  },
+  "projects": {
+    "title": "Projekti",
+    "taskManagement": {
+      "title": "Uzdevumu pārvaldības sistēma",
+      "subtitle": "React + Laravel Full-Stack lietotne",
+      "description": "Mūsdienīga uzdevumu pārvaldības tīmekļa lietotne ar lietotāju autentificēšanu, CRUD operācijām un responsīvu dizainu. Izveidota ar React frontend un Laravel API backend. Ekrānuzņēmumi parāda pieteikšanās saskarni, paneli ar uzdevumu pārvaldību un uzdevumu izveides/rediģēšanas funkcionalitāti.",
+      "techStack": ["React", "Laravel", "Tailwind CSS", "SQLite", "JWT Autentificēšana"]
+    },
+    "maphaus": {
+      "title": "Maphaus",
+      "subtitle": "Auto jaudas uzlabošanas tīmekļa lapa",
+      "description": "Mans mīļākais projekts, kas apvieno manu aizraušanos ar auto remontu un tīmekļa izstrādi. Šī auto tjūninga tīmekļa lapa parāda dažādas tuning modifikācijas, kas ir iespējamas. Es to izveidoju izmantojot React, TypeScript, CSS.",
+      "techStack": ["React", "TypeScript", "CSS", "Auto saturs"]
+    }
   },
   "education": {
     "title": "Izglītība",

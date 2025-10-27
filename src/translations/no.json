@@ -25,6 +25,12 @@
       "subtitle": "React + Laravel Full-Stack Applikasjon",
       "description": "En moderne oppgaveadministrasjons nettapplikasjon med brukerautentisering, CRUD-operasjoner og responsivt design. Bygget med React frontend og Laravel API backend. Skjermbildene viser påloggingsgrensesnittet, dashbordet med oppgaveadministrasjon og funksjonalitet for opprettelse/redigering av oppgaver.",
       "techStack": ["React", "Laravel", "Tailwind CSS", "SQLite", "JWT Autentisering"]
+    },
+    "maphaus": {
+      "title": "Maphaus",
+      "subtitle": "Bil-tuning Nettsted",
+      "description": "Mitt favorittprosjekt som kombinerer min lidenskap for biler med webutvikling. Dette bil-tuning nettstedet viser forskjellige tuning-modifikasjoner som er mulige for biler. Jeg bygde det ved å bruke React, TypeScript, CSS.",
+      "techStack": ["React", "TypeScript", "CSS", "Bil-tuning Innhold"]
     }
   },
   "education": {

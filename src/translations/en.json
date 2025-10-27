@@ -25,6 +25,12 @@
       "subtitle": "React + Laravel Full-Stack Application",
       "description": "A modern task management web app featuring user authentication, CRUD operations, and responsive design. Built with React frontend and Laravel API backend. The screenshots showcase the login interface, dashboard with task management, and task creation/editing functionality.",
       "techStack": ["React", "Laravel", "Tailwind CSS", "SQLite", "JWT Authentication"]
+    },
+    "maphaus": {
+      "title": "Maphaus",
+      "subtitle": "Car Tuning Website",
+      "description": "My favorite project that combines my passion for cars with web development. This car tuning website showcases various tuning modifications that are possible for cars. I Built it using React, TypeScript, CSS.",
+      "techStack": ["React", "TypeScript", "CSS", "Car Tuning Content"]
     }
   },
   "education": {
